@@ -3,5 +3,5 @@ project(testCPP)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(testCPP arraytest1.cpp
-        arraytest2.cpp)
+add_executable(testCPP helloworld.cpp
+)
