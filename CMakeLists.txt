@@ -4,4 +4,5 @@ project(testCPP)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(testCPP helloworld.cpp
+        mathlesson.cpp
 )
